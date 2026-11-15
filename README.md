@@ -1,4 +1,4 @@
-# Juno PM
+# Juno PM by May-Na
 
 > _(one-line pitch: what Juno does, for whom, in one sentence)_
 
